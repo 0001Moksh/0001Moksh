@@ -1,12 +1,14 @@
-<h1 align="left">Hey 👋 Everyone, What's Up!</h1>
+<h1 align="left">Welcome to My GitHub Profile!</h1>
 
-<p align="left">My name is Moksh Bhardwaj, and I am a passionate Web Developer and Designer from India.</p>
+<p align="left">
+My name is Moksh Bhardwaj, and I am a dedicated Web Developer and Designer from India, passionate about creating innovative solutions.
+</p>
 
 <h2 align="left">About Me</h2>
 
 <p align="left">
-✨ Creating impactful projects since 2022<br>
-📚 Currently diving deep into TensorFlow<br>
+✨ Crafting impactful projects since 2022<br>
+📚 Exploring the depths of TensorFlow<br>
 🎯 Aspiring to become a proficient AI Engineer<br>
 🎲 Fun fact: I tend to get a bit nervous in public speaking!
 </p>
