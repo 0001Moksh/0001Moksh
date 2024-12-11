@@ -28,7 +28,7 @@ I specialize in developing and designing efficient and scalable applications. Be
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn logo" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg](https://th.bing.com/th/id/OIP.QCzkbbl_ekpmKSJc5ZPapAAAAA?pid=ImgDet&w=176&h=170&c=7&dpr=1.7)" height="40" alt="Seaborn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
 </div>
