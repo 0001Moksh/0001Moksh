@@ -10,7 +10,7 @@ in<h1 align="left">Hey 👋 Guy's, What's Up!</h1>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Tenserflow<br>🎯 Goals to became a AI scientist <br>🎲 Fun fact about me is that , i am quite nervous in public</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Tenserflow<br>🎯 Goals to became a AI Engineer <br>🎲 Fun fact about me is that , i am quite nervous in public</p>
 
 ###
 
