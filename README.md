@@ -9,45 +9,45 @@
 
 ## About Me
 
-🎓 **BTech in AI & ML** | DPG Institute of Technology & Management (Batch 2027)  
-🧠 Hands-on with **Python, TensorFlow, Keras, Hugging Face, OpenCV, Transformers**  
-🛠️ Skilled in **Deluge, Firebase, FastAPI, React, Tailwind CSS**  
-💡 Obsessed with **intelligent systems, automation, and real-world impact**  
+**BTech in AI & ML** | DPG Institute of Technology & Management (Batch 2027)  
+Hands-on with **Python, TensorFlow, Keras, Hugging Face, OpenCV, Transformers**  
+Skilled in **Deluge, Firebase, FastAPI, React, Tailwind CSS**  
+Obsessed with **intelligent systems, automation, and real-world impact**  
 🔍 Currently building cutting-edge AI tools & exploring full-stack ML solutions
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔋 Harit AI  
+### Harit AI  
 **Sustainable AI project using vision transformers** to classify waste and generate product recommendations  
 🌐 [Live Site](https://haritai.onrender.com)
 
 ---
 
-### 💬 Deva Chatbot  
+###  Deva Chatbot  
 **FastAPI-based conversational AI** integrated with NexYug Tech website  
 🌐 [Website](https://nexyugtech.com)
 
 ---
 
-### 🗣️ Deva Voice Assistant  
+###  Deva Voice Assistant  
 AI-based **voice assistant** with NLP-powered gender personas (featured by DPG ITM)  
 🔗 [LinkedIn Project Post](https://www.linkedin.com/posts/dpg-institute-of-technology-and-management_dpgitm-voiceassistant-aiassistant-ugcPost-7329051618228822016-u8MJ?utm_source=social_share_send&utm_medium=member_desktop_web)
 
 ---
 
-### 🌐 My Portfolio  
+###  My Portfolio  
 React + Tailwind-based interactive portfolio  
 🔗 [Visit Portfolio](https://mokshbhardwaj.netlify.app)
 
 ---
-## 🚀 Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
 <!-- Programming Languages -->
-<h3>🧑‍💻 Programming Languages</h3>
+<h3> Programming Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -59,7 +59,7 @@ React + Tailwind-based interactive portfolio
 </p>
 
 <!-- AI/ML -->
-<h3>🧠 AI / ML / Deep Learning</h3>
+<h3> AI / ML / Deep Learning</h3>
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -83,7 +83,7 @@ React + Tailwind-based interactive portfolio
 </p>
 
 <!-- Web Dev & Tools -->
-<h3>🌐 Web Development & Tools</h3>
+<h3> Web Development & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -102,7 +102,7 @@ React + Tailwind-based interactive portfolio
 </p>
 
 <!-- Soft Skills -->
-<h3>💼 Soft Skills</h3>
+<h3> Soft Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Project_Management-9C27B0?style=for-the-badge" />
@@ -113,7 +113,7 @@ React + Tailwind-based interactive portfolio
 </p>
 
 <!-- Others -->
-<h3>🧩 Other Technical Skills</h3>
+<h3> Other Technical Skills</h3>
 
 <p>
   <img src="https://img.shields.io/badge/.pkl_Files-607D8B?style=for-the-badge" />
@@ -127,7 +127,7 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-## 📈 GitHub Stats & Streaks
+##  GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0001Moksh&show_icons=true&theme=radical&count_private=true&hide_border=false" width="47%"/>
@@ -136,7 +136,7 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-## 🧪 Top Languages
+##  Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0001Moksh&layout=compact&theme=tokyonight&langs_count=10&hide_border=false"/>
@@ -144,7 +144,7 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0001Moksh&theme=onestar&row=2&column=3&margin-w=15&margin-h=15"/>
@@ -152,7 +152,7 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-## 🔥 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0001Moksh&theme=github-compact&hide_border=true"/>
@@ -160,7 +160,7 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-## 🌐 Let’s Connect
+##  Let’s Connect
 
 <p align="center">
   <a href="mailto:mokshbhardwaj2333@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -171,4 +171,4 @@ React + Tailwind-based interactive portfolio
 
 ---
 
-<h3 align="center">⭐ If you find my work useful, don’t forget to star the repositories and connect! 🤝</h3>
+<h3 align="center"> If you find my work useful, don’t forget to star the repositories and connect! </h3>
