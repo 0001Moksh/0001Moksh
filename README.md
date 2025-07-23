@@ -9,11 +9,15 @@
 
 ## About Me
 
-**BTech in AI & ML** | DPG Institute of Technology & Management (Batch 2027)  
-Hands-on with **Python, TensorFlow, Keras, Hugging Face, OpenCV, Transformers**  
-Skilled in **Deluge, Firebase, FastAPI, React, Tailwind CSS**  
+**BTech in AI & ML** | DPG Institute of Technology & Management (Batch 2027) 
+ 
+Hands-on with **Python, TensorFlow, Keras, Hugging Face, OpenCV, Transformers**
+  
+Skilled in **Deluge, Firebase, FastAPI**
+  
 Obsessed with **intelligent systems, automation, and real-world impact**  
-🔍 Currently building cutting-edge AI tools & exploring full-stack ML solutions
+
+Currently building cutting-edge AI tools & exploring full-stack ML solutions
 
 ---
 
