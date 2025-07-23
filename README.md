@@ -129,8 +129,10 @@ React + Tailwind-based interactive portfolio
 
 ##  GitHub Stats & Streaks
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=0001Moksh&show_icons=true&theme=radical&count_private=true&hide_border=false" width="47%"/>
+</p>
+<p align ="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0001Moksh&theme=radical&hide_border=false" width="47%"/>
 </p>
 
